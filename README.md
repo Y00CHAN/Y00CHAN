@@ -1,6 +1,7 @@
-## SSAFY 13
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=300&section=header&text=Y00CHAN&fontSize=90)
+
+
+![header](https://raw.githubusercontent.com/Y00CHAN/Images/refs/heads/master/%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF.png?token=GHSAT0AAAAAAC5NSKJN3KUQTKU5SURYIF5AZ4JDOWA)
 
 
 >🔭 I’m currently working on 13th SSAFY
@@ -55,3 +56,4 @@ I'm Yuchan, a passionate developer diving deep into Python, Java, and JavaScript
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuchan&show_icons=true&theme=radical)
 ```
+
