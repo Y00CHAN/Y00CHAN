@@ -11,7 +11,7 @@
 
 ### Profile README
 ```markdown
-# Welcome to Yuchan's GitHub Portfolio
+# Welcome to Yuchan's GitHub Portfolio :)
 
 ## About Me
 I'm Yuchan, a passionate developer diving deep into Python, Java, and JavaScript. My GitHub repositories reflect my journey of continuous learning and development. I document my daily studies, algorithm challenges, and personal growth as a developer.
@@ -28,6 +28,7 @@ I'm Yuchan, a passionate developer diving deep into Python, Java, and JavaScript
   Document my growth and experiences as a developer.
 ```
 
+  
 
 <br/>  
 
@@ -35,7 +36,7 @@ I'm Yuchan, a passionate developer diving deep into Python, Java, and JavaScript
 
 
 
-### Skill Set  
+## Skill Set  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
@@ -64,7 +65,6 @@ I'm Yuchan, a passionate developer diving deep into Python, Java, and JavaScript
 <div align="center">
 <a href="https://github.com/https://github.com/Y00CHAN" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/https://www.instagram.com/baboomungchunge/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -78,24 +78,12 @@ I'm Yuchan, a passionate developer diving deep into Python, Java, and JavaScript
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Y00CHAN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-  
-
 <br/>  
 
-  
-
+----
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Y00CHAN&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
