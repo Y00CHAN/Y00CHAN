@@ -52,7 +52,6 @@ I'm Yuchan, a passionate developer diving deep into Python, Java, and JavaScript
 
 
 
-</td><td valign="top" width="33%">
 
 
 
